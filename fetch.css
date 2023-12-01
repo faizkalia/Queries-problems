@@ -1,0 +1,25 @@
+.container{
+    /* width: 3000px; */
+    /* height: 2000px; */
+    /* border: 1px solid; */
+    margin: 0;
+}
+strong{
+    margin-left: 25rem;
+}
+.title{
+    position: sticky;
+    top: 0.5rem;
+    background: burlywood;
+}
+.btn1{
+    font-size: 14px;
+    text-decoration: none;
+    transition: 0.5s;
+    font-size: 15px;
+
+}
+.btn1:hover{
+    text-decoration: underline;
+    
+}
